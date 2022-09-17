@@ -1,1 +1,3 @@
-# interactive-web-challenge
+# Interactive-Web-Challenge
+[Website Link](https://cabone01.github.io/interactive-web-challenge/)
+A website was made with the link above using the Belly Button Biodiversity dataset which can be examined in the samples.json file. On the website dropdown menu is given to select the id of a dataset that was made examining each person. Information about the person's demographic was taken from the dataset and provided for anyone to view. From the dataset collect from the chosen test subject a bar graph and bubble plot were made from it. The top 10 if there was that amount OTU IDs of the test subject was taken for the bar graph and their sample values were compared. In the bubble plot, the OTU IDs are used for the color while the bubble size is determined by the sample values. Many test subjects have very different top OTU IDS and sample values for them so a lot of information can be gathered by examining the different graphs.
