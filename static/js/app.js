@@ -37,12 +37,17 @@ function graphs(data) {
             type: 'sort',
             target: 'y',
             order: 'descending'
-          }]
+          }],
+
     }];
     let barLayout = {
         height: 600,
         width: 800,
+        xaxis:{
+            title: "Values"
+        },
         yaxis:{
+            title: "OTU IDs",
             type: 'category'
         }
     };
